@@ -1,36 +1,33 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: "AQFP Development Hack & Docs"
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: "Dive into the future of ultra-low-power superconducting logic design."
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: "Get Started"
+      link: "/introduction/welcome/"
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+    - text: "GitHub"
+      link: "https://github.com/cryo-lab/adhd"
       icon: external
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+# Welcome to ADHD Docs
 
-## Next steps
+<p class="typing text-4xl font-bold text-green-400">
+  Exploring the Future of AQFP VLSI Design
+</p>
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
-</CardGrid>
+<div class="flex flex-col items-center justify-center text-center mt-10">
+
+  <div class="mt-6 flex space-x-4">
+    <a href="/docs/introduction/welcome/" class="px-6 py-3 bg-green-500 text-black font-bold rounded-lg shadow-md hover:bg-green-400 transition">Get Started </a>
+    <a href="https://github.com/cryo-lab/adhd" class="px-6 py-3 border border-green-500 text-green-400 font-bold rounded-lg shadow-md hover:bg-green-500 hover:text-black transition">GitHub</a>
+  </div>
+
+  <pre class="mt-10 bg-gray-900 p-4 rounded-lg shadow-lg text-green-300">
+$ sudo apt install aqfp-tools
+$ aqfp-sim run project.qfp
+  </pre>
+</div>
