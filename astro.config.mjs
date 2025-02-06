@@ -18,7 +18,7 @@ export default defineConfig({
         label: 'Introduction',
         items: [
           { label: 'Welcome', slug: 'introduction/welcome' },
-          { label: 'Installation', slug: 'introduction/installation' },
+          { label: 'Why AQFP', slug: 'introduction/whyaqfp' },
         ],
       },
       {

@@ -1,33 +1,13 @@
-/* @import "tailwindcss"; */
-/* 全局背景颜色 */
+@import "tailwindcss"; 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 让全局生效的 Geek 风格 */
 body {
-    background-color: #f8f9fa !important;
-    font-family: "Inter", sans-serif !important;
-    color: #333 !important;
-  }
-  
-  /* 自定义导航栏 */
-  nav {
-    background-color: #007acc !important;
-    color: white !important;
-  }
-  
-  /* 调整文档标题样式 */
-  h1 {
-    font-size: 2.5rem !important;
-    font-weight: 700 !important;
-    color: #1a1a1a !important;
-  }
-  
-  /* 按钮风格 */
-  .button {
-    background-color: #007acc !important;
-    color: white !important;
-    border-radius: 5px !important;
-    padding: 10px 20px !important;
-    font-weight: bold !important;
-    text-decoration: none !important;
-  }
-  .button:hover {
-    background-color: #005fa3 !important;
-  }
+  @apply bg-black text-white;
+}
+
+.neon-text {
+  text-shadow: 0 0 5px var(--primary-color), 0 0 10px var(--primary-color);
+}
