@@ -7,8 +7,9 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cryo-lab.github.io/adhd'
+  site: 'https://cryo-lab.github.io/adhd',
   base: '/adhd/',
+  output: 'static',
   integrations: [starlight({
     title: 'AQFP Development Hack & Docs (ADHD)',
     social: {
