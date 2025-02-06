@@ -14,7 +14,7 @@ Superconducting digital circuits have had a wild ride, full of twists, turns, an
 
 ####  Meanwhile, in the Land of Silicon...
 
-While superconducting computing was finding its feet, another drama was unfolding in the world of semiconductor electronics. Enter **CMOS (Complementary Metal-Oxide-Semiconductor)**—the scrappy underdog that turned into the undisputed heavyweight champion of digital logic. By the late 1970s, CMOS had wrestled dominance away from NMOS thanks to its low power consumption, and by the 1980s, it had pretty much taken over the entire semiconductor industry.
+While superconducting computing was finding its feet, another drama was unfolding in the world of semiconductor electronics. Enter **CMOS (Complementary Metal-Oxide-Semiconductor)**—the scrappy underdog that turned into the undisputed heavyweight champion of digital logic. By the late 1970s, CMOS had wrestled dominance away from NMOS thanks to its lower power consumption, reduced heat generation, better noise margins, enhanced scalability, and lower costs in the long term... and by the 1980s, it had pretty much taken over the entire semiconductor industry.
 
 IBM took a shot at superconducting logic with its **Josephson Supercomputer Program** in the late 1960s. The idea? Outrun silicon. The problem? Scalability and robustness were major headaches, and by 1983, IBM had pulled the plug [2]. CMOS, with its ever-shrinking transistors and relentless efficiency gains, was like that overachieving classmate who always seemed to have their life together.
 
@@ -44,5 +44,5 @@ Will AQFP and superconducting logic take over the world? Maybe. Maybe not. But o
 2. K. K. Likharev, "Dynamics of Josephson junctions and circuits," *Gordon and Breach Science Publishers*, 1986.
 3. K. K. Likharev and V. K. Semenov, "RSFQ logic/memory family: A new Josephson-junction technology for sub-terahertz-clock-frequency digital systems," *IEEE Transactions on Applied Superconductivity*, vol. 1, no. 1, pp. 3-28, 1991. DOI: [10.1109/77.80745](https://doi.org/10.1109/77.80745)
 4. E. Goto, "The parametron, a digital computing element which utilizes parametric oscillation," *Proceedings of the IRE*, vol. 47, no. 8, pp. 1304-1316, 1959. DOI: [10.1109/JRPROC.1959.287299](https://doi.org/10.1109/JRPROC.1959.287299)
-5. N. Takeuchi et al., "Adiabatic quantum-flux-parametron cell for ultralow-power high-speed logic applications," *IEEE Transactions on Applied Superconductivity*, vol. 21, no. 3, pp. 936-939, 2011. DOI: [10.1109/TASC.2010.2090311](https://doi.org/10.1109/TASC.2010.2090311)
+5. N. Takeuchi et al., "An adiabatic quantum flux parametron as an ultra-low-power logic device," *Superconductor Science and Technology*, vol. 21, no. 3, pp. 936-939, 2011. DOI: [10.1088/0953-2048/26/3/035010](https://iopscience.iop.org/article/10.1088/0953-2048/26/3/035010)
 6. IARPA SuperTools Project, [https://www.iarpa.gov/research-programs/supertools](https://www.iarpa.gov/research-programs/supertools)
