@@ -39,8 +39,7 @@ These cases remind us that in the thrilling world of superconductors, **extraord
 
 If transistors are the heart of CMOS circuits, then **Josephson Junctions (JJs)** are the superheroes of superconducting logic. A JJ is just a thin insulating barrier sandwiched between two superconductors - we call it sandwich strucutre, but this tiny device enables **quantum tunneling**, **zero-voltage switching**, and speeds that make conventional transistors look sluggish. 
 
-##### Fake Diagram: The Anatomy of a Josephson Junction
-_(Imagine a beautiful, scientifically accurate diagram here with arrows pointing to a superconducting sandwich)_
+##### Diagram: The Anatomy of a Josephson Junction
 
 Why does this matter? Because JJs switch with almost **zero energy dissipation**—perfect for low-power, high-speed computing. But wait, there's more!
 
@@ -48,8 +47,8 @@ Why does this matter? Because JJs switch with almost **zero energy dissipation**
 
 Enter the **Superconducting Quantum Interference Device (SQUID)**, which sounds like something out of a sci-fi movie (and honestly, it kind of is). SQUIDs use two JJs in a loop to detect minute magnetic fields with insane sensitivity. Think of it as a superpowered magnetometer that physicists and engineers drool over.
 
-##### Fake Diagram: SQUID in Action
-_(A visually stunning, completely hypothetical image goes here)_
+##### Diagram: SQUID in Action
+
 
 Why do we care? Because SQUIDs help stabilize and amplify superconducting signals, a crucial function in circuits like **AQFP**.
 
@@ -64,8 +63,8 @@ An **AQFP buffer** consists of:
 - **Adiabatic switching**, which means instead of brute-force logic changes, energy is recycled in a smooth, low-power transition.
 - **Inductors & Clocking Magic**, ensuring signals move efficiently and predictably.
 
-##### Fake Diagram: How an AQFP Buffer Works
-_(A shockingly well-drawn, non-existent diagram explaining buffer operation)_
+##### Diagram: How an AQFP Buffer Works
+
 
 #### 4.1 Why Is This Important?
 Because in superconducting circuits, **propagating signals efficiently is half the battle**. AQFP buffers ensure that logic gates function with minimal power dissipation, making **adiabatic logic a practical reality**. Without them, AQFP circuits would be like a symphony with no conductor—beautiful potential, but total chaos.
