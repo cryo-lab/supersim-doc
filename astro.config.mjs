@@ -24,11 +24,19 @@ export default defineConfig({
         ],
       },
       {
-        label: 'Guides',
+        label: 'AQFP Basics',
         items: [
-          { label: 'AQFP Design Basics', slug: 'guides/aqfp-basics' },
-          { label: 'Optimization Techniques', slug: 'guides/optimization' },
-          { label: 'Tool Setup', slug: 'guides/tool-setup' },
+          { label: 'Superconductivity', slug: 'aqfp-basics/superconductivity' },
+          { label: 'Superconductive Electronic', slug: 'aqfp-basics/sce' },
+          { label: 'Tool Setup', slug: 'aqfp-basics/aqfp-basics' },
+        ],
+      },
+      {
+        label: 'Hacks',
+        items: [
+          { label: 'Examples', slug: 'hacks/example' },
+          { label: 'Optimization Techniques', slug: 'hacks/optimization' },
+          { label: 'Tool Setup', slug: 'hacks/tool-setup' },
         ],
       },
       {
