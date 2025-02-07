@@ -16,7 +16,7 @@ description: "Learn the fundamentals of AQFP VLSI design"
 If transistors are the heart of CMOS circuits, then **Josephson Junctions (JJs)** are the superheroes of superconducting logic. A JJ is just a thin insulating barrier sandwiched between two superconductors - we call it sandwich strucutre, but this tiny device enables **quantum tunneling**, **zero-voltage switching**, and speeds that make conventional transistors look sluggish. 
     
 
-<p style="text-align: center; font-weight: bold;"><img src="../../../assets/Josephson-junction.jpg" alt="Josephson Junction Symbol x" width="300"></p> 
+<p style="text-align: center; font-weight: bold;"><img src="/adhd/assets/Josephson-junction.jpg" alt="Josephson Junction Symbol x" width="300"></p> 
 
 >Diagram: A Josephson junction, where φ represents the phase. | Credit: You & Nori (2011) Atomic physics and quantum optics using superconducting circuits Nature 474, 589–597 doi:10.1038/nature10122
 
