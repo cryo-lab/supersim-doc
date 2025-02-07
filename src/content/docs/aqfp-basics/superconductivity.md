@@ -1,5 +1,5 @@
 ---
-title: "Superconductors"
+title: "Superconductivity"
 description: "Learn the fundamentals of AQFP VLSI design"
 ---
 <style>
