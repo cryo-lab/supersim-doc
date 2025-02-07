@@ -28,7 +28,7 @@ export default defineConfig({
         items: [
           { label: 'Superconductivity', slug: 'aqfp-basics/superconductivity' },
           { label: 'Superconductive Electronic', slug: 'aqfp-basics/sce' },
-          { label: 'Tool Setup', slug: 'aqfp-basics/aqfp-basics' },
+          { label: 'AQFP Basics', slug: 'aqfp-basics/aqfp-basics' },
         ],
       },
       {
