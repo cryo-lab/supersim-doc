@@ -23,11 +23,11 @@ If transistors are the heart of CMOS circuits, then **Josephson Junctions (JJs)*
  From the time I started my master’s studies, at least, people have been using an “x” to represent a Josephson junction (JJ) in circuit schematics. Some might find this symbol lacking character, or perhaps the “x” carries certain negative connotations. To make it more visually appealing, someone proposed adding dots on either side of the “x” (⋅x⋅). It even looks somewhat cute—almost as if there’s a hint of frustration embedded in the circuit. Of course, in symbol design, simplicity always prevails over complexity, and I’ve rarely seen the latter being widely adopted.
 
 
-<p style="text-align: center; font-weight: bold;"><img src="../../../assets/Josephson_junction_symbol.png" alt="osephson Junction Symbol x" width="100"></p> 
+<p style="text-align: center; font-weight: bold;"><img src="/adhd/assets/Josephson_junction_symbol.png" alt="osephson Junction Symbol x" width="100"></p> 
 
 >JJ symbol x  
 
-<p style="text-align: center; font-weight: bold;"><img src="../../../assets/Equivalent-circuit-of-current-biased-Josephson-junction-From-left-to-right-the-new_W640.jpg" alt="osephson Junction Symbol x" width="200"></p>
+<p style="text-align: center; font-weight: bold;"><img src="/adhd/assets/Equivalent-circuit-of-current-biased-Josephson-junction-From-left-to-right-the-new_W640.jpg" alt="osephson Junction Symbol x" width="200"></p>
 
 
 >Resistor-Capacitor-Juntion Equavilent Cirucit with JJ symbol ⋅x⋅

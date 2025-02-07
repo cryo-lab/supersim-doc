@@ -11,7 +11,7 @@ export default defineConfig({
   base: '/adhd/',
   output: 'static',
   integrations: [starlight({
-    title: 'AQFP Development Hack & Docs (ADHD)',
+    title: 'ADHD Docs',
     social: {
       github: 'https://github.com/cryo-lab/adhd',
     },
