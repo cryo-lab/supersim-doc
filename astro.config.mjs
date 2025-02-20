@@ -8,7 +8,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://cryo-lab.github.io/supersim-doc',
-  base: '/supersim-soc/',
+  base: '/supersim-doc/',
   output: 'static',
   integrations: [starlight({
     title: 'SuperSIM Docs',
