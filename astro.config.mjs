@@ -19,15 +19,15 @@ export default defineConfig({
       {
         label: 'Introduction',
         items: [
-          { label: 'Introduction', slug: 'introduction/01_Introduction' },
-          { label: 'Installation', slug: 'introduction/02_Installation' },
+          { label: 'Introduction', slug: 'introduction/01_introduction' },
+          { label: 'Installation', slug: 'introduction/02_installation' },
         ],
       },
       {
         label: 'Getting Started',
         items: [
-          { label: 'Quick Start', slug: 'getting_started/03_Quick_Start' },
-          { label: 'Usage Guide', slug: 'getting_started/04_Usage_Guide' },
+          { label: 'Quick Start', slug: 'getting_started/03_quick_start' },
+          { label: 'Usage Guide', slug: 'getting_started/04_usage_guide' },
           { label: 'Advanced Features', slug: 'getting_started/04_advanced_features' },
 
         ],
@@ -35,8 +35,8 @@ export default defineConfig({
       {
         label: 'Support',
         items: [
-          { label: 'Troubleshooting and FAQs', slug: 'support/06_Troubleshooting_FAQs' },
-          { label: 'Support and Contributions', slug: 'support/07_Support_Contributions' },
+          { label: 'Troubleshooting and FAQs', slug: 'support/06_troubleshooting_faqs' },
+          { label: 'Support and Contributions', slug: 'support/07_support_contributions' },
         ],
       },
       {
