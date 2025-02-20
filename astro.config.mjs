@@ -28,7 +28,7 @@ export default defineConfig({
         items: [
           { label: 'Quick Start', slug: 'getting_started/03_quick_start' },
           { label: 'Usage Guide', slug: 'getting_started/04_usage_guide' },
-          { label: 'Advanced Features', slug: 'getting_started/04_advanced_features' },
+          { label: 'Advanced Features', slug: 'getting_started/05_advanced_features' },
 
         ],
       },
