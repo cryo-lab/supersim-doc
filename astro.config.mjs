@@ -19,24 +19,24 @@ export default defineConfig({
       {
         label: 'Introduction',
         items: [
-          { label: 'Welcome', slug: 'introduction/welcome' },
-          { label: 'Why AQFP', slug: 'introduction/whyaqfp' },
+          { label: 'Introduction', slug: 'introduction/01_Introduction' },
+          { label: 'Installation', slug: 'introduction/02_Installation' },
         ],
       },
       {
-        label: 'AQFP Basics',
+        label: 'Getting Started',
         items: [
-          { label: 'Superconductivity', slug: 'aqfp-basics/superconductivity' },
-          { label: 'Superconductive Electronic', slug: 'aqfp-basics/sce' },
-          { label: 'AQFP Basics', slug: 'aqfp-basics/aqfp-basics' },
+          { label: 'Quick Start', slug: 'getting_started/03_Quick_Start' },
+          { label: 'Usage Guide', slug: 'getting_started/04_Usage_Guide' },
+          { label: 'Advanced Features', slug: 'getting_started/04_advanced_features' },
+
         ],
       },
       {
-        label: 'Hacks',
+        label: 'Support',
         items: [
-          { label: 'Examples', slug: 'hacks/example' },
-          { label: 'Optimization Techniques', slug: 'hacks/optimization' },
-          { label: 'Tool Setup', slug: 'hacks/tool-setup' },
+          { label: 'Troubleshooting and FAQs', slug: 'support/06_Troubleshooting_FAQs' },
+          { label: 'Support and Contributions', slug: 'support/07_Support_Contributions' },
         ],
       },
       {
