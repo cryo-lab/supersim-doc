@@ -7,13 +7,13 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cryo-lab.github.io/adhd',
-  base: '/adhd/',
+  site: 'https://cryo-lab.github.io/supersim-doc',
+  base: '/supersim-soc/',
   output: 'static',
   integrations: [starlight({
-    title: 'ADHD Docs',
+    title: 'SuperSIM Docs',
     social: {
-      github: 'https://github.com/cryo-lab/adhd',
+      github: 'https://github.com/cryo-lab/supersim-doc',
     },
     sidebar: [
       {
