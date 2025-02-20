@@ -1,4 +1,7 @@
-# 1. Introduction
+---
+title: "Introduction"
+description: "Learn how to quickly get started with SuperSIM."
+--- 
 
 - What is SuperSIM?
 - Key features and capabilities
