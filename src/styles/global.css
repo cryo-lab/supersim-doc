@@ -2,12 +2,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* 让全局生效的 Geek 风格 */
-body {
-  @apply bg-black text-white;
-}
-
-.neon-text {
-  text-shadow: 0 0 5px var(--primary-color), 0 0 10px var(--primary-color);
-}
